@@ -182,7 +182,7 @@ section {
 	}
 
 	.intro {
-		margin: 5vh;
+		margin: 3vh 5vh 0 5vh;
 		text-align: center;
 	}
 
@@ -203,12 +203,11 @@ section {
 	}
 
 	.coverage img {
-		height: 80%;
+		height: 75%;
 	}
 
 	.laptop-select {
-		position: absolute;
-		bottom: 3%;
+		bottom: 2%;
 		right: 50%;
 		width: 50%;
 		transform: translate(50%, 5%);
